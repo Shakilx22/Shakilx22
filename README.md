@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Hasnat Kabir Shakil</h1>
-<h3 align="center">I am a Learner, and Data Analyst, from Bangladesh</h3>
+<h1 align="center">Hi 👋, I'm Farhan Sakil</h1>
+<h3 align="center">I am a learner</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shakil" alt="shakil" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript, Data Science**
+- 🌱 I’m currently learning **JavaScript**
 
 - 👯 I’m open to collaborating on **Data Analysis projects**
 
-- 📫 How to reach me **shakilkabir.h@gmail.com**
+- 📫 How to reach me **farhanian@gmail.com**
 
-- ⚡ Fun fact **I have a cat named Tommy**
+- ⚡ Fun fact **I have a cat**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

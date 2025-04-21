@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['license']
+
+roboflow:
+  workspace: license-9pbbv
+  project: license-plate-jwqfz
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/license-9pbbv/license-plate-jwqfz/dataset/1
